@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Animals>
+    <Animal>
+        <Type>Собака</Type>
+        <Name>Шарик</Name>
+        <DateOfBirth>24.01.2024</DateOfBirth>
+        <Gender>М</Gender>
+    </Animal>
+    <Animal>
+        <Type>Кенгуру</Type>
+        <Name>Жора</Name>
+        <DateOfBirth>11.05.2018</DateOfBirth>
+        <Gender>Ж</Gender>
+    </Animal>
+    <Amimal><Type>Попугай</Type><Name>Кеша</Name><DateOfBirth>11.12.2022</DateOfBirth><Gender>М</Gender></Amimal><Amimal><Type>Попугай</Type><Name>Кеша</Name><DateOfBirth>11.12.2022</DateOfBirth><Gender>М</Gender></Amimal></Animals>

@@ -1,0 +1,16 @@
+{
+    "Animals": [
+        {
+            "Type":"Кошка",
+            "Name":"Аляска",
+            "DateOfBirth": "24.01.2024",
+            "Gender":"Ж"
+        },
+        {
+            "Type":"Собака",
+            "Name":"Шарик",
+            "DateOfBirth": "11.05.2018",
+            "Gender":"М"
+        }
+    ]
+}
